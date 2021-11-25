@@ -1,3 +1,3 @@
-# crowling
+# crawling
 
 소프트웨어 융합기술 팀프로젝트 관련 코드들
